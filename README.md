@@ -9,7 +9,7 @@
 I'm a software engineering student passionate about frontend development and open-source contributions. I enjoy building web applications, working with the MERN stack, and am always looking for opportunities to learn and grow in tech.
 
 ### Links:
-<a href="https://github.com/sponsors/Rashidkhan25"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a>
+<a href="https://github.com/RacheetX"><img align="right" width="500" height="500" src="https://github.com/paa-rth/paa-rth/blob/main/octopaarth/octopaarth-mod.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/rashid-ejaz-khan/">LinkedIn</a> 
 - Tinkering with interactions on <a href="#">Portfolio</a> 
 - Let's work together!! <a href="https://drive.google.com/file/d/1Iwc3JCLAEYSZm4GqLrK5yi4dVfnIMN7E/view?usp=sharing">My Resume</a> 
