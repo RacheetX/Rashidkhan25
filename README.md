@@ -1,4 +1,4 @@
-<h2>Hi, I'm Rashid Khan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2>
+<h2>Hi, I'm Rashid Khahg <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2>
 
 <img src="https://raw.githubusercontent.com/Rashidkhan25/Rashidkhan25/refs/heads/main/header.jpeg" alt="Profile Banner" width="100%">
 
